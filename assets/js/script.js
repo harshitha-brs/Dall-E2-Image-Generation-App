@@ -18,7 +18,7 @@ const openAiUrl = "https://api.openai.com/v1/images/generations";
 const imageGenerationUrl = "https://api.openai.com/v1/images/generations";
 const headers = {
   "Content-Type": "application/json",
-  Authorization: `Bearer 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`
+  Authorization: `Bearer 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`
 };
 
 search.addEventListener("click", function() {
